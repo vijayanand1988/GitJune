@@ -3,5 +3,6 @@ hello git
 welcome
 
 hello world
-
 hw r u
+
+day 2 text in day 1 file
